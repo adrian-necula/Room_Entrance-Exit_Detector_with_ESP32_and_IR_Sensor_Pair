@@ -12,6 +12,7 @@ By placing two IR sensors at an entrance, the system tracks the flow of people i
 
 *Note: The sensors are sensitive to strong sunlight, which can interfere with detection accuracy.*
 
-## Documentation & Simulation
+## Source Code, Documentation & Simulation
+* 💻 **Source Code:** The complete Arduino C++ code is available in the `MiniProiect.ino` file.
 * ⚙️ **Wokwi Simulation:** [Test the circuit here](https://wokwi.com/projects/399026392703686657)
 * 📄 **Full Report:** See the attached `docMiniProiect_925.pdf` for the complete Romanian documentation, pinouts, and schematics.
